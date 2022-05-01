@@ -1,11 +1,10 @@
 ### Hi there 👋
 - 🌱 I’m currently learning about web development
   
-  ##  -- Html
-  ##  -- Css
-  ##  -- Java Script
-  ##    --- Ajax
-  ##  -- Php
+ - Html
+ - Css
+ - Java Script
+ - Php
 
 <!--
 **prg-sp/prg-sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
