@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning about web development
+ 🌱 I’m currently learning about web development
   
- -- Html
+ - Html
  - Css
  - Java Script
  - Php
