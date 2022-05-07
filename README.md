@@ -4,8 +4,8 @@
  - Html
  - Css
  - Java Script
- - 
-[My portfolio](https://prg-sp.github.io/portfolio/)
+ 
+[Link to my portfolio](https://prg-sp.github.io/portfolio/)
 
 <!--
 **prg-sp/prg-sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
